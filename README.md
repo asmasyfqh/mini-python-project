@@ -7,3 +7,4 @@ Most of the projects will be using Jupyter Notebook. For the ideas, I get most o
 
 ## List of Python Projects in this repo
 1. Python Simple Calculator [Intermediate]
+2. Student Average Exam Scores [Beginner]
